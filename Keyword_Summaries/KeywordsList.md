@@ -31,6 +31,7 @@
     - [Upcasting](keywords/Upcasting.md)
     - [Downcasting](keywords/Downcasting.md)
     - [As](keywords/As.md)
+    - [Is](keywords/Is.md)
 - 한정자
     - 한정자(Modifiers)
         - [Virtual](keywords/Virtual.md)
