@@ -27,8 +27,10 @@
     - [Class](keywords/class.md)
 - [Boxing](keywords/Boxing.md)
 - [Unboxing](keywords/Unboxing.md)
-- [Upcasting](keywords/Upcasting.md)
-- [Downcasting](keywords/Downcasting.md)
+- Casting
+    - [Upcasting](keywords/Upcasting.md)
+    - [Downcasting](keywords/Downcasting.md)
+    - [As](keywords/As.md)
 - 한정자
     - 한정자(Modifiers)
         - [Virtual](keywords/Virtual.md)
