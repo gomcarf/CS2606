@@ -23,10 +23,11 @@
         - [Data Bus](keywords/DataBus.md)
 - [Value Type](keywords/ValueType.md)
     - [Struct](keywords/Struct.md)
+    - [Boxing](keywords/Boxing.md)
+    - [Unboxing](keywords/Unboxing.md)
+- [Generic](keywords/Generic.md)
 - [Reference Type](keywords/RefType.md)
     - [Class](keywords/class.md)
-- [Boxing](keywords/Boxing.md)
-- [Unboxing](keywords/Unboxing.md)
 - Casting
     - [Upcasting](keywords/Upcasting.md)
     - [Downcasting](keywords/Downcasting.md)
