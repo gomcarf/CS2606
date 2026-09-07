@@ -26,6 +26,7 @@
     - [Boxing](keywords/Boxing.md)
     - [Unboxing](keywords/Unboxing.md)
 - [Generic](keywords/Generic.md)
+    - [Generic을 통한 Boxing/UnBoxing 방지 효과](keywords/GenericEffect.md)
 - [Reference Type](keywords/RefType.md)
     - [Class](keywords/class.md)
 - Casting
