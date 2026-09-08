@@ -34,6 +34,7 @@
     - [Downcasting](keywords/Downcasting.md)
     - [As](keywords/As.md)
     - [Is](keywords/Is.md)
+- [Delegate](keywords/Delegate.md)
 - 한정자
     - 한정자(Modifiers)
         - [Virtual](keywords/Virtual.md)
