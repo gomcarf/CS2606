@@ -34,7 +34,6 @@
     - [Downcasting](keywords/Downcasting.md)
     - [As](keywords/As.md)
     - [Is](keywords/Is.md)
-- [Delegate](keywords/Delegate.md)
 - 한정자
     - 한정자(Modifiers)
         - [Virtual](keywords/Virtual.md)
@@ -84,3 +83,5 @@
     - [PNG](keywords/PNG.md)
     - [WAV](keywords/WAV.md)
     - [AVI](keywords/AVI.md)
+- [Delegate](keywords/Delegate.md)
+- [Event](keywords/Event.md)
